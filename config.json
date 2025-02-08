@@ -1,7 +1,7 @@
 {
-"bot_token": "Bot Token",
+"bot_token": "MTI1MTY0NTkyMjg3MDI5NjYzNw.GxKP7x.7zIB70V9rgt24j3SzDUrEzmrZePQ66xKwH-JB0",
 "prefix": "$",
-"channelnames": "Axe Runs Cord",
-"rolenames": "AXES RUNS CORD",
-"spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Axes Are Cool", "@everyone Beamed"]
+"channelnames": "tst runs cord",
+"rolenames": "tst runs cord",
+"spam_text": ["@everyone Tst Runs Cord", "@everyone Boom! Get Nuked by TST", "@everyone TST owns everything", "@everyone Nuked by TST"]
 }
